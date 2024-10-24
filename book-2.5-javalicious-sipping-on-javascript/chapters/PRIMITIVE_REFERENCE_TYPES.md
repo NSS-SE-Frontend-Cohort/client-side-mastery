@@ -38,11 +38,13 @@ public class Modification {
 }
 ```
 
-**Java:** Primitive types are passed by value, while objects (reference types) are passed by reference. However, the reference itself is passed by value.
-**Java**: Reassigning the reference inside the method does not affect the original object outside the method, but modifying it's fields does.
+**Java:** 
+- Primitive types are passed by value, while objects (reference types) are passed by reference. However, the reference itself is passed by value.
+- Reassigning the reference inside the method does not affect the original object outside the method, but modifying it's fields does.
 
-**JavaScript:** Primitive types are passed by value, while objects (reference types) are passed by reference. However, the reference itself is passed by value.
-**JavaScript**: Similar to Java, reassignment of the object reference does not affect the original object outside the function. However, changes to the object's properties will be reflected outside the function.
+**JavaScript:** 
+- Primitive types are passed by value, while objects (reference types) are passed by reference. However, the reference itself is passed by value.
+- Similar to Java, reassignment of the object reference does not affect the original object outside the function. However, changes to the object's properties will be reflected outside the function.
 
 ### Disclosure:
 Please note that the examples below demonstrate improper encapsulation for demo purposes. In production code, it's recommended to encapsulate class fields properly using access modifiers (like private) and provide getter and setter methods to manage object states safely.

@@ -5,9 +5,7 @@ In this exercise, you’ll explore the differences in data structures between Ja
 ### **Key Differences** **In Java vs. JavaScript**
 
 - **Java**: Provides a rich set of data structures such as `ArrayList`, `HashMap`, `Stack`, and `Queue` through the Collections Framework. These structures are type-safe and specialized.
-- **Java**: Offers dedicated, structured data types like `ArrayList`, `HashMap`, `Stack`, and `Queue`, making data management more predictable and type-safe.
 - **JavaScript**: Uses arrays and objects as its primary data structures. ES6 introduced `Map`, `Set`, and more, but arrays are still used for stack and queue behaviors through built-in methods like `push()`, `pop()`, `shift()`, and `unshift()`.
-- **JavaScript**: Uses more flexible, but less structured, arrays and objects to achieve similar functionality, with fewer guarantees around structure and type.
 
 ### **Exercise Instructions**
 

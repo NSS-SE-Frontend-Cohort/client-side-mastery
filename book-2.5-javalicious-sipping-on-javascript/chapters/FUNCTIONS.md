@@ -20,7 +20,6 @@
    ```
 2. Call the `scream()` method from an instance of the `Freddy` class. Note that `scream()` or `whisper()` cannot be called directly, emphasizing that methods in Java must be part of a class.
 ```java
-Copy code
 public class Main {
     public static void main(String[] args) {
        // TODO write the code to make Freddie scream and whisper

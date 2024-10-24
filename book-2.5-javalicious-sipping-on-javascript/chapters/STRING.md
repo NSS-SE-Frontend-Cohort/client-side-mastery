@@ -30,16 +30,16 @@ console.log(stringObj1 === stringObj2);
 // Statement 4
 console.log(stringObj1.valueOf() === stringObj2.valueOf());
 ```
-### Questions 
-**JavaScript** What is the output of Statement 1 and why? 
-**JavaScript** What is the output of Statement 2 and why? 
-**JavaScript** What is the output of Statement 3 and why? 
-**JavaScript** What is the output of Statement 4 and why? 
+### JavaScript Questions 
+- What is the output of Statement 1 and why?
+- What is the output of Statement 2 and why?
+- What is the output of Statement 3 and why? 
+- What is the output of Statement 4 and why? 
 
 
 ### **Java Code:**
 
-### Let's explore how we can determine whether a new string object is created during string manipulations.
+#### Let's explore how we can determine whether a new string object is created during string manipulations.
 
 In Java, while it’s not possible to directly print memory addresses of objects, we can use the `System.identityHashCode()` method to display a hash code that can give a unique identifier for each object. This can show that each string operation returns a new object.
 
@@ -130,32 +130,29 @@ function NBAPlayer() {
     
     playerName2.toUpperCase();
     // Statement 5
-    console.log("playerName2", playerName2 === "STEPH CURRY"); // false
+    console.log("playerName2", playerName2 === "STEPH CURRY"); // ???
+    
+    playerName.toUpperCase();
+    // Statement 6
+    console.log("playerName", playerName2 === "LeBron James"); // ???
 }
 
 NBAPlayer();
 ```
 
-### **JavaScript Output Example:**
-
-```
-Original Name: LeBron James
-Uppercase Name: LEBRON JAMES
-Lowercase Name: lebron james
-Updated Name: LeBron James MVP
-Original Name After All Changes: LeBron James
-Is original unchanged: true
-```
-
-In JavaScript, we can’t print a memory address, but we can confirm that the original string stays unchanged after all operations. Each string operation results in a new string, while the original remains the same.
+### Code Assignments:
+Task: Run both NBAPlayer code in java and js and answer the questions below.
 
 ### Questions 
 
-**Java** How is the String type different from the int type in java? 
-How is the String type similar to and different from a custom Person type we might create in Java?
-**JavaScript** How do JavaScript strings behave as immutable data types, and what are the implications of this immutability when performing operations like concatenation, slicing, or modifying individual characters?
+**Java** 
+- How is the String type different from the int type in Java?
+- How is the String type similar to and different from a custom Person type we might create in Java?
 
-Explain why Statement 5 above outputs false and ways to 
+**JavaScript** 
+- How do JavaScript strings behave as immutable data types, and what are the implications of this immutability when performing operations like concatenation, slicing, or modifying individual characters?
+- Run the code and explain the output of Statement 5.
+- Run the code and explain the output of Statement 6.
 
 ### **Conclusion**:
 Both Java and JavaScript treat strings as immutable, meaning that once a string is created, it cannot be changed. Concatenating strings creates new string objects rather than modifying the original ones.

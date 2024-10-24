@@ -79,7 +79,7 @@ helloKittyStore();
 
 ### Open-Ended Questions:
 1. **Java**: What are the risks of using multiple threads in Java without proper synchronization?
-2. **JavaScript**: Does the JS version of the code have the same issues whne its comes to writing the logMessages array from async functions? Why or why not?
+2. **JavaScript**: Does the JS version of the code have the same issues when it comes to writing the logMessages array from async functions? Why or why not?
 
 ### Conclusion:
 In this exercise, you've seen how concurrency is handled in Java with explicit multi-threading and how JavaScript uses asynchronous patterns to achieve concurrency despite being single-threaded.

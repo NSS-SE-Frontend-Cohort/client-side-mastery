@@ -42,6 +42,8 @@ try {
     console.log("Exception caught: " + e.message); // Catching exception is optional
 }
 ```
+### Code Assignments:
+Task: Run both Js and Java version of the  code observe the behavior,differences  and answer the questions below.
 
 #### **Open-Ended Questions:**
 1. **Java:** What happens when you don't surround `new FileReader` in the `YardSale` class in a try/catch block? What is the benefit of forcing developers to handle checked exceptions at compile time?

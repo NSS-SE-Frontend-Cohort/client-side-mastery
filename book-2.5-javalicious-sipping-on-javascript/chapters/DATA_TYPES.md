@@ -1,6 +1,5 @@
 ### Exercise: Understanding Types in Java vs. JavaScript
 
-### Java vs. JavaScript
 **Java:** Java has eight primitive types (byte, short, int, long, float, double, char, boolean), and they are immutable. They are passed by value, meaning a copy of the data is passed to a method. Reference types (like arrays, objects) pass the reference by value, but the object’s state can be changed if modified inside the method.
 
 **JavaScript:** JavaScript has six primitive types (Number, String, Boolean, Undefined, Null, Symbol) and reference types like objects and arrays. Primitive values are passed by value. Reference types (like arrays, objects) pass the reference by value allowing for changes within functions to reflect outside of the function.
@@ -78,12 +77,6 @@ console.log("Is Champion:", isChampion);
 ```
 ### Code Assignments:
 Task: Implement a system to track multiple fighters in a Brazilian Jiu-Jitsu tournament.
-
-#### Java:
-
-- Modify the Fighter class to include a new field for the fighter's belt rank (e.g., white, blue, purple).
-- Create an array or a list to hold multiple Fighter instances and display their information.
-- Add a method to calculate and display the average weight of the fighters.
 
 #### JavaScript:
 - Enhance the Fighter class to include a new property for the fighter's belt rank.

@@ -4,12 +4,6 @@
 
 Get a nice journal and a comfortable pen, and start keeping a daily journal of what you are learning every day. Writing your thoughts on a regular basis [increases your ability to remember it](https://www.lifehack.org/articles/featured/writing-and-remembering-why-we-remember-what-we-write.html). There are even studies that found writing is [beneficial for your health](https://www.apa.org/monitor/sep01/keepdiary.aspx).
 
-## Hardware
-
-Up until now, you didn't have the power to destroy your machine, but within the first two weeks of attending Nashville Software School you will have that power. Go buy a backup drive _**RIGHT NOW**_ and start backing up your entire hard drive.
-
-**Seriously, _right now!_**
-
 ## Google Chrome
 
 Google Chrome is the most popular browser for web developers because of the powerful tools it provides to test code, manipulate documents, and measure performance.
