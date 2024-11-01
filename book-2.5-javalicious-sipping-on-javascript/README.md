@@ -35,7 +35,7 @@ Use [this JAVA run guide](../java_run_instructions.md) to run your Java code fro
 
 Use [this JS run guide](../js_run_instructions.md) to run your JS code from the chapters.
 
-Answer the questions in each chapter. Will cover these during office hours. Will record this portion of the 
+Answer the questions in each chapter. Will cover these during office hours. Will record this portion of the meeting.
 
 | #   | Breaking Free from the Java Matrix: A JavaScript Adventure! 🖥️ 💊🔴 💊🔵 |
 | --- | --- | 

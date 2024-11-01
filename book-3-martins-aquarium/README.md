@@ -2,8 +2,6 @@
 
 In this book, you will learn how to build your first dynamic web page with HTML, CSS, and JavaScript. You will also start backing up your code consistently to Github.
 
-> You have 5 days to complete the core chapters. Then you will spend 3 days doing the group project.
-
 ## Core Projects
 
 | # | 🧨 💥 Dynamite Duo | 🎥 🍿 Movie Majesty | 🐠  Martin's Aquarium |
