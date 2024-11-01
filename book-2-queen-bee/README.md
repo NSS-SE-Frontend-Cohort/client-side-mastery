@@ -17,7 +17,7 @@ In this first book, you will learn the core, fundamental competencies and habits
 
 Once you have completed all of the Core Projects, your job is to do a self-assessment. Click on the link below to see what this book's assessment instructions are.
 
-| #   | 🎓 Self-Assessment  |
+| #   | 🎓 Self-Assessment 1 |
 | --- | ---- |
 | -   | <a href="https://app.screencastify.com/v3/watch/NlYEfYdSHJrwFeB0GQqN" target="_blank">Watch how to create Loom videos</a> to submit with your completed self-assessment |
 | 1   | [Self-Assess Your Debugging Skills](./chapters/DEBUGGER_ASSESSMENT.md) |
@@ -32,9 +32,7 @@ These Explorer chapters are **optional** for learners who want to explore more a
 | 2   | [Combined Data](./chapters/QUEEN_EC_DATABASE.md)  |  | [Tours Consolidated](./chapters/BJORN_DATABASEmd) |
 | 3   | [Finding Tribute](./chapters/QUEEN_EC_ARRAY_FIND.md) |  | [Filtering Tours](./chapters/BJORN_ARRAY_FIND.md) |
 
-## 🔐 Group Project
-
-When you have completed all of the core chapters, you will work on a group project with other teammates who have also completed them. Group projects deepen your communication and collaboration Core Skills. Your mentors will assign you to a team when it's time.
+## 🎓 Self-Assessment 2 
 
 | #   | Project Name | Description |
 | --- | --- | --- |

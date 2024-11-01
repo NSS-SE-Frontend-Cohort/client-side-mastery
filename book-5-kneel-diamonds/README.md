@@ -23,7 +23,7 @@ In this book, you will be introduced to three concepts.
 
 Once you have completed all of the Core Projects, your job is to do a self-assessment. Click on the link below to see what this book's assessment instructions are. Once complete, reach out to an mentor to review your vocabulary.
 
-| # | 🎓  Self-Assessment |
+| # | 🎓  Self-Assessment 1 |
 | --- | --- |
 | 1 | [Async, State, and Array Method Self-Assessment](./chapters/BOOK_4_ASSESSMENT.md) |
 
@@ -49,11 +49,11 @@ Pioneer chapters are let you develop Deep Learning on the concepts that you have
 | 5 | [Customer Report](../projects/tier-3/honest-abe/chapters/CUSTOMER_REPORT.md) | [Normalization Challenge](../projects/tier-3/honest-abe/chapters/BOUQUET_NORMALIZE.md) | [Campaign Donations](../projects/tier-3/honest-abe/chapters/PAC_DONATIONS.md) |
 | 6 | |  | [Sponsored Legislation](../projects/tier-3/honest-abe/chapters/LEGISLATION.md) |
 
-## 🔐 Main Group Project
+## 🎓 Self-Assessment 2
 
 | # | Project Name | Description |
 |--|--|--|
-|1|[Exomine](https://github.com/nss-group-projects/exomine)| Exomine is a group project that uses all of the skills you have worked with to this point in the course. Your knowledge of data relationships and array methods will be grown tremendously and challenged. Can you face the challenge with some teammates? |
+|1| Exomine| It is a project that uses all of the skills you have worked with to this point in the course. Your knowledge of data relationships and array methods will be grown tremendously and challenged. Can you face the challenge? Click on 'Start Self-Assessment' in the LMS to get a repo link and get started. |
 
 ## 🔐 Additional Projects
 

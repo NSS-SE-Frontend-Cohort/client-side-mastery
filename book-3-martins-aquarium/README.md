@@ -21,10 +21,10 @@ Once you have completed all of the Core Projects, your job is to do a self-asses
 | --- | --- |
 | 1 | [Self-Assess JavaScript Fundamentals](./chapters/HAIRY_POTTER.md) |
 
-## 🔐 Group Project
+## 🎓 Self-Assessment 2
 
-When you have completed all of the core chapters, you will work on a group project with other teammates who have also completed them. Group projects deepen your communication and collaboration Core Skills. Your mentors will assign you to a team when it's time.
+When you have completed all of the core chapters you will work on a project optionally in a study group with teammates who have also completed them. 
 
 | #   | Project Name | Description |
 | --- | --- | --- |
-| 1   | [🚜<br/>Modern Farm](../projects/tier-1/modern-farm/README.md) | In this group project, your team is going to build an application that simulates the process of planning, planting, harvesting and selling crops for a modern farming operation. |
+| 1   | [🚜<br/>Modern Farm](../projects/tier-1/modern-farm/README.md) | In this group project, you are going to build an application that simulates the process of planning, planting, harvesting and selling crops for a modern farming operation. |
