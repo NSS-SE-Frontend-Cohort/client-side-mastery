@@ -37,7 +37,7 @@ Note how each view of her application was clearly defined with low fidelity. The
 
 ### Learn from Successful Students
 
-Here is a great example from a group project team that was assigned to build a complex application that had many views. This team took the time to clearly understand which views they needed, which content would be displayed on each, the layout of the content, and how interactions would work.
+Here is a great example from a project that was assigned to build a complex application that had many views. This team took the time to clearly understand which views they needed, which content would be displayed on each, the layout of the content, and how interactions would work.
 
 It took them 1.5 days to plan their project. It then took them 3 days to implement it, to completion.
 

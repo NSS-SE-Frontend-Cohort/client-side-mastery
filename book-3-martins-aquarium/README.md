@@ -27,4 +27,4 @@ When you have completed all of the core chapters you will work on a project opti
 
 | #   | Project Name | Description |
 | --- | --- | --- |
-| 1   | [🚜<br/>Modern Farm](../projects/tier-1/modern-farm/README.md) | In this group project, you are going to build an application that simulates the process of planning, planting, harvesting and selling crops for a modern farming operation. |
+| 1   | [🚜<br/>Modern Farm](../projects/tier-1/modern-farm/README.md) | You are going to build an application that simulates the process of planning, planting, harvesting and selling crops for a modern farming operation. |

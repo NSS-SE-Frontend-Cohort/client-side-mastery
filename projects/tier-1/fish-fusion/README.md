@@ -1,4 +1,4 @@
-# Fish Fusion Group Project
+# Fish Fusion Project
 
 In this project, you are going to build a purchasing pipeline for a bargain fish restaurant in your city.
 
